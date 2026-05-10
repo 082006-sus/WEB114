@@ -1,0 +1,4 @@
+Hello, I chose to do Soccer Quiz. Background picture is my club team from 2024, I chose it as a background because obviosly it is soccer theme and that team has a special 
+place in my heart. Growing up I really loved playing soccer outside with my buds, but I couldn't play club due to my severe allerigies. Place I lived wasn't like America, plants were overgrown 
+and nobody took care of the environment which means more pollen. When I moved to US I played all through out high school and a couple years for the club, those were truly one of the best moments in my entire life
+going to practices or games, chatting to my friends and going out of town for tournaments.I used HTML, CSS, and JavaScript to create questions, buttons, score tracking, and events. 

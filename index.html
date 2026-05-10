@@ -1,30 +1,28 @@
-<!--Name: Basan Emenov Date: 04/13/2026-->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gas Average Project</title>
-    <script src="gas.js" defer></script>
+    <title>Soccer Quiz</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
 </head>
+
 <body>
-    <header>
-        <h1>Gas Average Calculator</h1>
-    </header>
+    <h1>Soccer Quiz</h1>
 
     <main>
-        <section>
-            <h2>What is the purpose of a function?</h2>
-            <p>
-                A function is used to group reusable code that performs a specific task.
-                It helps organize programs, avoid repetition, and makes code easier to read and maintain.
-            </p>
-        </section>
+        <p id="question">Click start to begin the quiz.</p>
 
-        <section>
-            <p>Click F12 to see the console messages.</p>
-        </section>
+        <button id="startButton">Start Quiz</button>
+
+        <div id="answerArea">
+            <button id="answerOne">Answer 1</button>
+            <button id="answerTwo">Answer 2</button>
+            <button id="answerThree">Answer 3</button>
+        </div>
+
+        <p id="result"></p>
+        <p id="score">Score: 0</p>
     </main>
 </body>
 </html>
